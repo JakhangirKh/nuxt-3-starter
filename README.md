@@ -22,3 +22,4 @@ Before you begin, ensure you have the following installed:
 - **npm** or **yarn**
 
 ---
+# nuxt-3-starter
